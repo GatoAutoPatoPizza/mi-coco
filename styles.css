@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+h1{
+    color: beige;
+    font-weight: normal;
+}
+p{
+    color: aliceblue;
+    font-style: italic;
+    font-weight: 900;
+}
+.void{
+    float: right;
+    width: 100px;
+    margin: -100px;
+    width: 30%;
+    transform: translateY(-100px);
+    
+
+}
