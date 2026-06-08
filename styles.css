@@ -29,5 +29,6 @@ p {
 }
 
 .MCR {
-    width: 10%
+    width: 50px;
+    height: auto;
 }
