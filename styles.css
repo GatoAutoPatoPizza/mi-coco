@@ -16,9 +16,9 @@ p {
 
 .void {
     float: right;
-    margin: -50px;
+    margin: 100px;
     width: 150px;
-    transform: translateY(-170px);
+    transform: translateY(-320px);
 } 
 
 .titi {
